@@ -46,7 +46,7 @@ struct DrawingView: View {
                             .overlay(
                                 RoundedRectangle(cornerRadius: 16)
                                     .stroke(Color.black, lineWidth: 4)
-                        )
+                            )
                     }
                     
                     Button(action: {
@@ -60,7 +60,7 @@ struct DrawingView: View {
                             .overlay(
                                 RoundedRectangle(cornerRadius: 16)
                                     .stroke(Color.black, lineWidth: 4.0)
-                        )
+                            )
                     }
                     
                     Spacer()

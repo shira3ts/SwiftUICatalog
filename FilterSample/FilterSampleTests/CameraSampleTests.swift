@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import CameraSample
+//@testable import CameraSample
 
 class CameraSampleTests: XCTestCase {
 
